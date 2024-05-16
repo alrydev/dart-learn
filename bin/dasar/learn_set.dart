@@ -1,7 +1,8 @@
 import 'dart:ffi';
 
 /**
- * beda dengan list: tidak ada index, tidak menerima data yang sama, {}
+ * beda dengan list: tidak ada index, tidak menerima data yang sama, {} 
+ * unik data
  */
 
 void main(){
